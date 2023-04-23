@@ -2,7 +2,7 @@
 
 This is a simple application that generates human faces based on the tensorflow celeb_a dataset.
 
-## Installation
+## How to run this project
 Create a new virtual environment using the following command.
 
 ```bash
