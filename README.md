@@ -29,5 +29,5 @@ if you want to close the virtual environment run this command.
 ```bash
 deactivate
 ```
-#
+# Run the project :) 
 
