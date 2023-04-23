@@ -3,17 +3,17 @@
 This is a simple application that generates human faces based on the tensorflow celeb_a dataset.
 
 ## Installation
-Crea un nuevo entorno virtual usando el siguiente comando
+Create a new virtual environment using the following command.
 
 ```bash
 python -m venv venv
 ```
-Activate the virtual environment by running the following command
+Activate the virtual environment by running the following command.
 
 ```bash
 .\venv\Scripts\Activate.ps1
 ```
-If you are using  Unix o Linux run
+If you are using  Unix o Linux run.
 
 ```bash
 .\venv\bin\activate
