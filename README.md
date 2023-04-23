@@ -1,1 +1,1 @@
-## simple generation of human faces
+### Simple generation of human faces
