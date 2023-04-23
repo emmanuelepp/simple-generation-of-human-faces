@@ -23,11 +23,12 @@ Install the project dependencies.
 ```bash
 pip install -r requirements.txt
 ```
+## Run the project :) 
 
 if you want to close the virtual environment run this command.
 
 ```bash
 deactivate
 ```
-# Run the project :) 
+
 
